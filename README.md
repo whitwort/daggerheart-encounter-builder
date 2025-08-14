@@ -8,7 +8,7 @@ Features
 * Import core Adversaries and Environments from a parse of the SRD (forked from seansbox/daggerheart-srd)
 
 To use
-* From a google docs sheet open Extensions -> Apps SCript
+* From a google docs sheet open Extensions -> Apps Script
 * Erase everything in the editor and paste in the entirety of code.gs
 * Save and give the script needed permissions. NOTE: the script needs permission to create and erase files on your drive! Do not allow that if you can't independantly trust this script.
 * Then reload the sheet, you should see a Daggerheart menu appear
